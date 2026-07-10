@@ -1,0 +1,6 @@
+{
+  "name": "PROSEM Digital",
+  "description": "Aplikasi Pembuat Program Semester Pembelajaran dengan fitur export PDF dan Word",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
